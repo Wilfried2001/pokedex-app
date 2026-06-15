@@ -79,4 +79,5 @@ Créez une issue ou soumettez une pull request sur GitHub pour toute question ou
 
 ---
 
-_Généré automatiquement — adaptez ce README selon vos besoins (captures d'écran, badge CI, licence)._
+
+
